@@ -1,0 +1,37 @@
+
+
+header{
+font-family: 'Lato', sans-serif;
+color: rgb(152, 150, 236);
+}
+
+h1{
+    font-size: x-large;
+    color: rgb(152, 150, 236);
+    margin: 2 rem;
+    font-family: 'Lato', sans-serif;
+}
+h2{
+    font-size: larger;
+    color: rgb(152, 150, 236);
+    font-family: 'Lato', sans-serif;
+}
+p{
+    color: rgb(90, 91, 156);
+    font-family: 'Lato', sans-serif;
+    height: 10%;
+    width: 25%;
+    padding-bottom: length;
+    margin-top: length; 
+}
+img {
+    float: center;
+    width: 400px;
+    height: 500px;
+    margin-right: 0%;
+    margin-left: 0%;
+
+}
+body{
+    background-color: whitesmoke;
+}
